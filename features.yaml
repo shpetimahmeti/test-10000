@@ -1,0 +1,15 @@
+feature_configs:
+  - id: test
+    metadata:
+      contact: shpetim
+      squad_contact_info:
+        squad_email_address: shpetim
+        squad_slack_channel: '#shpetim'
+      display_name: shpetim
+      description:shpetim
+      reference_links:
+        - name: JIRA Ticket
+          url: https://test.atlassian.net/browse/OFRON-1
+    apps:
+      - server
+      - shell
